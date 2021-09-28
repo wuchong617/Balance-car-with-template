@@ -1,0 +1,9 @@
+stm32f1xx_ll_tim.h:1540:22:LL_TIM_CC_EnableChannel	16	static
+stm32f1xx_ll_tim.h:2045:22:LL_TIM_OC_SetCompareCH1	16	static
+stm32f1xx_ll_tim.h:2059:22:LL_TIM_OC_SetCompareCH2	16	static
+stm32f1xx_ll_tim.h:2073:22:LL_TIM_OC_SetCompareCH3	16	static
+stm32f1xx_ll_tim.h:2087:22:LL_TIM_OC_SetCompareCH4	16	static
+L298N.c:13:6:L298N_IO_Iint	4	static
+L298N.c:25:6:L298N_init	16	static
+L298N.c:33:6:Set_A_PWMValue	24	static
+L298N.c:81:6:Set_B_PWMValue	24	static

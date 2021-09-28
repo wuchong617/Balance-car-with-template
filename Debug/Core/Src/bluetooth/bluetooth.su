@@ -1,0 +1,7 @@
+stm32f1xx_ll_usart.h:1850:26:LL_USART_IsActiveFlag_TC	16	static
+stm32f1xx_ll_usart.h:2473:22:LL_USART_TransmitData8	16	static
+bluetooth.c:13:6:BlueTooth_Init	16	static
+bluetooth.c:18:6:BlueTooth_Recive	56	static
+bluetooth.c:25:6:Blue_Recivematch	24	static
+bluetooth.c:40:6:BlueTooth_Sendflag	16	static
+bluetooth.c:52:6:BlueTooth_Senddate	24	static

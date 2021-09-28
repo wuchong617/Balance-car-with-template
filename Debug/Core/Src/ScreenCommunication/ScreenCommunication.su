@@ -1,0 +1,3 @@
+ScreenCommunication.c:15:6:Screen_Init	16	static
+ScreenCommunication.c:20:6:Screen_Recive	56	static
+ScreenCommunication.c:27:6:Screen_Recivematch	24	static
